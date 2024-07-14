@@ -1,2 +1,2 @@
 # Poetry-Website
-It's  a  mini website which is made only using html and css
+This mini website is a college demo project on web development, created using only HTML, CSS, and some JavaScript.
